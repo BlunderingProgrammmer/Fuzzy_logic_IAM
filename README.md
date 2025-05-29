@@ -42,6 +42,7 @@ Then run the notebook or launch the Gradio app for interactive use.
 ## 🧑‍💻 Author
 
 - Built as part of an AI & Security exploration project.
+- in collabaration with -KEITH- https://github.com/004Keith
 
 ## 📝 License
 
